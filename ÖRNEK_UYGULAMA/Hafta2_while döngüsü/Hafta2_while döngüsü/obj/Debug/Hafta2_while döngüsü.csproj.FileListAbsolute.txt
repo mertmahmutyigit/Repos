@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_while döngüsü\Hafta2_while döngüsü\bin\Debug\Hafta2_while döngüsü.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_while döngüsü\Hafta2_while döngüsü\bin\Debug\Hafta2_while döngüsü.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_while döngüsü\Hafta2_while döngüsü\bin\Debug\Hafta2_while döngüsü.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_while döngüsü\Hafta2_while döngüsü\obj\Debug\Hafta2_while döngüsü.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_while döngüsü\Hafta2_while döngüsü\obj\Debug\Hafta2_while döngüsü.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_while döngüsü\Hafta2_while döngüsü\obj\Debug\Hafta2_while döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_while döngüsü\Hafta2_while döngüsü\obj\Debug\Hafta2_while döngüsü.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_while döngüsü\Hafta2_while döngüsü\obj\Debug\Hafta2_while döngüsü.pdb

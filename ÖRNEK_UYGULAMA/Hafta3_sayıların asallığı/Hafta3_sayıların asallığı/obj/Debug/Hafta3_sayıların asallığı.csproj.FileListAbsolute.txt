@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_sayıların asallığı\Hafta3_sayıların asallığı\bin\Debug\Hafta3_sayıların asallığı.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_sayıların asallığı\Hafta3_sayıların asallığı\bin\Debug\Hafta3_sayıların asallığı.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_sayıların asallığı\Hafta3_sayıların asallığı\bin\Debug\Hafta3_sayıların asallığı.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_sayıların asallığı\Hafta3_sayıların asallığı\obj\Debug\Hafta3_sayıların asallığı.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_sayıların asallığı\Hafta3_sayıların asallığı\obj\Debug\Hafta3_sayıların asallığı.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_sayıların asallığı\Hafta3_sayıların asallığı\obj\Debug\Hafta3_sayıların asallığı.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_sayıların asallığı\Hafta3_sayıların asallığı\obj\Debug\Hafta3_sayıların asallığı.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_sayıların asallığı\Hafta3_sayıların asallığı\obj\Debug\Hafta3_sayıların asallığı.pdb

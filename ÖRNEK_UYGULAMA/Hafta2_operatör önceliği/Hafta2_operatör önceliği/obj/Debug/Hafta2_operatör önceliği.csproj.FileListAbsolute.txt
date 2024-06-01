@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_operatör önceliği\Hafta2_operatör önceliği\bin\Debug\Hafta2_operatör önceliği.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_operatör önceliği\Hafta2_operatör önceliği\bin\Debug\Hafta2_operatör önceliği.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_operatör önceliği\Hafta2_operatör önceliği\bin\Debug\Hafta2_operatör önceliği.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_operatör önceliği\Hafta2_operatör önceliği\obj\Debug\Hafta2_operatör önceliği.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_operatör önceliği\Hafta2_operatör önceliği\obj\Debug\Hafta2_operatör önceliği.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_operatör önceliği\Hafta2_operatör önceliği\obj\Debug\Hafta2_operatör önceliği.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_operatör önceliği\Hafta2_operatör önceliği\obj\Debug\Hafta2_operatör önceliği.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_operatör önceliği\Hafta2_operatör önceliği\obj\Debug\Hafta2_operatör önceliği.pdb

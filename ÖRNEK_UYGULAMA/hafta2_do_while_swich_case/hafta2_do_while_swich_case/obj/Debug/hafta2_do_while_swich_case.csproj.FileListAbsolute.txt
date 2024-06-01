@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafta2_do_while_swich_case\hafta2_do_while_swich_case\obj\Debug\hafta2_do_while_swich_case.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafta2_do_while_swich_case\hafta2_do_while_swich_case\obj\Debug\hafta2_do_while_swich_case.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafta2_do_while_swich_case\hafta2_do_while_swich_case\obj\Debug\hafta2_do_while_swich_case.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafta2_do_while_swich_case\hafta2_do_while_swich_case\bin\Debug\hafta2_do_while_swich_case.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafta2_do_while_swich_case\hafta2_do_while_swich_case\bin\Debug\hafta2_do_while_swich_case.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafta2_do_while_swich_case\hafta2_do_while_swich_case\bin\Debug\hafta2_do_while_swich_case.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafta2_do_while_swich_case\hafta2_do_while_swich_case\obj\Debug\hafta2_do_while_swich_case.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafta2_do_while_swich_case\hafta2_do_while_swich_case\obj\Debug\hafta2_do_while_swich_case.pdb

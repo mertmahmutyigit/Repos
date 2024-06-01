@@ -1,0 +1,3 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_5_Strucks\FİNAL_5_Strucks\obj\Debug\FİNAL_5_Strucks.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_5_Strucks\FİNAL_5_Strucks\obj\Debug\FİNAL_5_Strucks.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_5_Strucks\FİNAL_5_Strucks\obj\Debug\FİNAL_5_Strucks.csproj.CoreCompileInputs.cache

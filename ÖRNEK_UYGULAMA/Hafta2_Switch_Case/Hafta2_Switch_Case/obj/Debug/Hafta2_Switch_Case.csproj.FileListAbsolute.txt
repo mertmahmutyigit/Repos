@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_Switch_Case\Hafta2_Switch_Case\bin\Debug\Hafta2_Switch_Case.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_Switch_Case\Hafta2_Switch_Case\bin\Debug\Hafta2_Switch_Case.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_Switch_Case\Hafta2_Switch_Case\bin\Debug\Hafta2_Switch_Case.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_Switch_Case\Hafta2_Switch_Case\obj\Debug\Hafta2_Switch_Case.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_Switch_Case\Hafta2_Switch_Case\obj\Debug\Hafta2_Switch_Case.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_Switch_Case\Hafta2_Switch_Case\obj\Debug\Hafta2_Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_Switch_Case\Hafta2_Switch_Case\obj\Debug\Hafta2_Switch_Case.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_Switch_Case\Hafta2_Switch_Case\obj\Debug\Hafta2_Switch_Case.pdb

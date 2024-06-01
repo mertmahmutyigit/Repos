@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operatör_bölme__çarpma\Hafta6_Operatör_bölme__çarpma\obj\Debug\Hafta6_Operatör_bölme__çarpma.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operatör_bölme__çarpma\Hafta6_Operatör_bölme__çarpma\obj\Debug\Hafta6_Operatör_bölme__çarpma.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operatör_bölme__çarpma\Hafta6_Operatör_bölme__çarpma\obj\Debug\Hafta6_Operatör_bölme__çarpma.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operatör_bölme__çarpma\Hafta6_Operatör_bölme__çarpma\bin\Debug\Hafta6_Operatör_bölme__çarpma.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operatör_bölme__çarpma\Hafta6_Operatör_bölme__çarpma\bin\Debug\Hafta6_Operatör_bölme__çarpma.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operatör_bölme__çarpma\Hafta6_Operatör_bölme__çarpma\bin\Debug\Hafta6_Operatör_bölme__çarpma.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operatör_bölme__çarpma\Hafta6_Operatör_bölme__çarpma\obj\Debug\Hafta6_Operatör_bölme__çarpma.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operatör_bölme__çarpma\Hafta6_Operatör_bölme__çarpma\obj\Debug\Hafta6_Operatör_bölme__çarpma.pdb

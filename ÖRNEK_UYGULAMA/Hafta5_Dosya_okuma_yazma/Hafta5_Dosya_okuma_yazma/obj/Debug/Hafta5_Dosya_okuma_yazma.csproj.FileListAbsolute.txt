@@ -1,0 +1,11 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Dosya_okuma_yazma\Hafta5_Dosya_okuma_yazma\bin\Debug\Hafta5_Dosya_okuma_yazma.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Dosya_okuma_yazma\Hafta5_Dosya_okuma_yazma\bin\Debug\Hafta5_Dosya_okuma_yazma.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Dosya_okuma_yazma\Hafta5_Dosya_okuma_yazma\bin\Debug\Hafta5_Dosya_okuma_yazma.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Dosya_okuma_yazma\Hafta5_Dosya_okuma_yazma\obj\Debug\Hafta5_Dosya_okuma_yazma.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Dosya_okuma_yazma\Hafta5_Dosya_okuma_yazma\obj\Debug\Hafta5_Dosya_okuma_yazma.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Dosya_okuma_yazma\Hafta5_Dosya_okuma_yazma\obj\Debug\Hafta5_Dosya_okuma_yazma.Form1.resources
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Dosya_okuma_yazma\Hafta5_Dosya_okuma_yazma\obj\Debug\Hafta5_Dosya_okuma_yazma.Properties.Resources.resources
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Dosya_okuma_yazma\Hafta5_Dosya_okuma_yazma\obj\Debug\Hafta5_Dosya_okuma_yazma.csproj.GenerateResource.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Dosya_okuma_yazma\Hafta5_Dosya_okuma_yazma\obj\Debug\Hafta5_Dosya_okuma_yazma.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Dosya_okuma_yazma\Hafta5_Dosya_okuma_yazma\obj\Debug\Hafta5_Dosya_okuma_yazma.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Dosya_okuma_yazma\Hafta5_Dosya_okuma_yazma\obj\Debug\Hafta5_Dosya_okuma_yazma.pdb

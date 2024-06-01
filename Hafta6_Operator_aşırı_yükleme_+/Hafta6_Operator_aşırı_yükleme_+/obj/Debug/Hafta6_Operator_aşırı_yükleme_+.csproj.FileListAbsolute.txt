@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operator_aşırı_yükleme_+\Hafta6_Operator_aşırı_yükleme_+\obj\Debug\Hafta6_Operator_aşırı_yükleme_+.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operator_aşırı_yükleme_+\Hafta6_Operator_aşırı_yükleme_+\obj\Debug\Hafta6_Operator_aşırı_yükleme_+.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operator_aşırı_yükleme_+\Hafta6_Operator_aşırı_yükleme_+\obj\Debug\Hafta6_Operator_aşırı_yükleme_+.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operator_aşırı_yükleme_+\Hafta6_Operator_aşırı_yükleme_+\bin\Debug\Hafta6_Operator_aşırı_yükleme_+.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operator_aşırı_yükleme_+\Hafta6_Operator_aşırı_yükleme_+\bin\Debug\Hafta6_Operator_aşırı_yükleme_+.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operator_aşırı_yükleme_+\Hafta6_Operator_aşırı_yükleme_+\bin\Debug\Hafta6_Operator_aşırı_yükleme_+.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operator_aşırı_yükleme_+\Hafta6_Operator_aşırı_yükleme_+\obj\Debug\Hafta6_Operator_aşırı_yükleme_+.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Operator_aşırı_yükleme_+\Hafta6_Operator_aşırı_yükleme_+\obj\Debug\Hafta6_Operator_aşırı_yükleme_+.pdb

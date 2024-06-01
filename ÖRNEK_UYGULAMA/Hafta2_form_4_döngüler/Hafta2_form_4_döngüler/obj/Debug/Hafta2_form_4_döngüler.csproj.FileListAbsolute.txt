@@ -1,0 +1,11 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_form_4_döngüler\Hafta2_form_4_döngüler\obj\Debug\Hafta2_form_4_döngüler.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_form_4_döngüler\Hafta2_form_4_döngüler\obj\Debug\Hafta2_form_4_döngüler.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_form_4_döngüler\Hafta2_form_4_döngüler\obj\Debug\Hafta2_form_4_döngüler.Form1.resources
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_form_4_döngüler\Hafta2_form_4_döngüler\obj\Debug\Hafta2_form_4_döngüler.Properties.Resources.resources
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_form_4_döngüler\Hafta2_form_4_döngüler\obj\Debug\Hafta2_form_4_döngüler.csproj.GenerateResource.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_form_4_döngüler\Hafta2_form_4_döngüler\obj\Debug\Hafta2_form_4_döngüler.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_form_4_döngüler\Hafta2_form_4_döngüler\bin\Debug\Hafta2_form_4_döngüler.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_form_4_döngüler\Hafta2_form_4_döngüler\bin\Debug\Hafta2_form_4_döngüler.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_form_4_döngüler\Hafta2_form_4_döngüler\bin\Debug\Hafta2_form_4_döngüler.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_form_4_döngüler\Hafta2_form_4_döngüler\obj\Debug\Hafta2_form_4_döngüler.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_form_4_döngüler\Hafta2_form_4_döngüler\obj\Debug\Hafta2_form_4_döngüler.pdb

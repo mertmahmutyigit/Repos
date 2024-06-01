@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafat_4_Diziler\hafat_4_Diziler\bin\Debug\hafat_4_Diziler.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafat_4_Diziler\hafat_4_Diziler\bin\Debug\hafat_4_Diziler.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafat_4_Diziler\hafat_4_Diziler\bin\Debug\hafat_4_Diziler.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafat_4_Diziler\hafat_4_Diziler\obj\Debug\hafat_4_Diziler.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafat_4_Diziler\hafat_4_Diziler\obj\Debug\hafat_4_Diziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafat_4_Diziler\hafat_4_Diziler\obj\Debug\hafat_4_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafat_4_Diziler\hafat_4_Diziler\obj\Debug\hafat_4_Diziler.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\hafat_4_Diziler\hafat_4_Diziler\obj\Debug\hafat_4_Diziler.pdb

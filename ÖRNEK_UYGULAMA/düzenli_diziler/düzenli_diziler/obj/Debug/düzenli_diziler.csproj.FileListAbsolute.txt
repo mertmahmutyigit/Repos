@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\düzenli_diziler\düzenli_diziler\obj\Debug\düzenli_diziler.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\düzenli_diziler\düzenli_diziler\obj\Debug\düzenli_diziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\düzenli_diziler\düzenli_diziler\obj\Debug\düzenli_diziler.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\düzenli_diziler\düzenli_diziler\bin\Debug\düzenli_diziler.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\düzenli_diziler\düzenli_diziler\bin\Debug\düzenli_diziler.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\düzenli_diziler\düzenli_diziler\bin\Debug\düzenli_diziler.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\düzenli_diziler\düzenli_diziler\obj\Debug\düzenli_diziler.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\düzenli_diziler\düzenli_diziler\obj\Debug\düzenli_diziler.pdb

@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\HAFTA_4_out_örnek\HAFTA_4_out_örnek\bin\Debug\HAFTA_4_out_örnek.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\HAFTA_4_out_örnek\HAFTA_4_out_örnek\bin\Debug\HAFTA_4_out_örnek.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\HAFTA_4_out_örnek\HAFTA_4_out_örnek\bin\Debug\HAFTA_4_out_örnek.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\HAFTA_4_out_örnek\HAFTA_4_out_örnek\obj\Debug\HAFTA_4_out_örnek.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\HAFTA_4_out_örnek\HAFTA_4_out_örnek\obj\Debug\HAFTA_4_out_örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\HAFTA_4_out_örnek\HAFTA_4_out_örnek\obj\Debug\HAFTA_4_out_örnek.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\HAFTA_4_out_örnek\HAFTA_4_out_örnek\obj\Debug\HAFTA_4_out_örnek.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\HAFTA_4_out_örnek\HAFTA_4_out_örnek\obj\Debug\HAFTA_4_out_örnek.pdb

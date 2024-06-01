@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Yıkıcı_örnek1\Hafta6_Yıkıcı_örnek1\bin\Debug\Hafta6_Yıkıcı_örnek1.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Yıkıcı_örnek1\Hafta6_Yıkıcı_örnek1\bin\Debug\Hafta6_Yıkıcı_örnek1.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Yıkıcı_örnek1\Hafta6_Yıkıcı_örnek1\bin\Debug\Hafta6_Yıkıcı_örnek1.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Yıkıcı_örnek1\Hafta6_Yıkıcı_örnek1\obj\Debug\Hafta6_Yıkıcı_örnek1.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Yıkıcı_örnek1\Hafta6_Yıkıcı_örnek1\obj\Debug\Hafta6_Yıkıcı_örnek1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Yıkıcı_örnek1\Hafta6_Yıkıcı_örnek1\obj\Debug\Hafta6_Yıkıcı_örnek1.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Yıkıcı_örnek1\Hafta6_Yıkıcı_örnek1\obj\Debug\Hafta6_Yıkıcı_örnek1.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta6_Yıkıcı_örnek1\Hafta6_Yıkıcı_örnek1\obj\Debug\Hafta6_Yıkıcı_örnek1.pdb

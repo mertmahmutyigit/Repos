@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\DİZİ_Palindrom\DİZİ_Palindrom\obj\Debug\DİZİ_Palindrom.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\DİZİ_Palindrom\DİZİ_Palindrom\obj\Debug\DİZİ_Palindrom.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\DİZİ_Palindrom\DİZİ_Palindrom\obj\Debug\DİZİ_Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\DİZİ_Palindrom\DİZİ_Palindrom\bin\Debug\DİZİ_Palindrom.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\DİZİ_Palindrom\DİZİ_Palindrom\bin\Debug\DİZİ_Palindrom.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\DİZİ_Palindrom\DİZİ_Palindrom\bin\Debug\DİZİ_Palindrom.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\DİZİ_Palindrom\DİZİ_Palindrom\obj\Debug\DİZİ_Palindrom.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\DİZİ_Palindrom\DİZİ_Palindrom\obj\Debug\DİZİ_Palindrom.pdb

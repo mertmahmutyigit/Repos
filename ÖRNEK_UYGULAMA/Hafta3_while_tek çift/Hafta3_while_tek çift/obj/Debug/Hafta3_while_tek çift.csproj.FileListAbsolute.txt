@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_while_tek çift\Hafta3_while_tek çift\bin\Debug\Hafta3_while_tek çift.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_while_tek çift\Hafta3_while_tek çift\bin\Debug\Hafta3_while_tek çift.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_while_tek çift\Hafta3_while_tek çift\bin\Debug\Hafta3_while_tek çift.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_while_tek çift\Hafta3_while_tek çift\obj\Debug\Hafta3_while_tek çift.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_while_tek çift\Hafta3_while_tek çift\obj\Debug\Hafta3_while_tek çift.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_while_tek çift\Hafta3_while_tek çift\obj\Debug\Hafta3_while_tek çift.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_while_tek çift\Hafta3_while_tek çift\obj\Debug\Hafta3_while_tek çift.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_while_tek çift\Hafta3_while_tek çift\obj\Debug\Hafta3_while_tek çift.pdb

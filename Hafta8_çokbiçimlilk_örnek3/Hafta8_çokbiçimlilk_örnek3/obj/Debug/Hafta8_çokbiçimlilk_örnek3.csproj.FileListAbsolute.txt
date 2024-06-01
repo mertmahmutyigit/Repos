@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta8_çokbiçimlilk_örnek3\Hafta8_çokbiçimlilk_örnek3\obj\Debug\Hafta8_çokbiçimlilk_örnek3.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta8_çokbiçimlilk_örnek3\Hafta8_çokbiçimlilk_örnek3\obj\Debug\Hafta8_çokbiçimlilk_örnek3.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta8_çokbiçimlilk_örnek3\Hafta8_çokbiçimlilk_örnek3\obj\Debug\Hafta8_çokbiçimlilk_örnek3.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta8_çokbiçimlilk_örnek3\Hafta8_çokbiçimlilk_örnek3\bin\Debug\Hafta8_çokbiçimlilk_örnek3.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta8_çokbiçimlilk_örnek3\Hafta8_çokbiçimlilk_örnek3\bin\Debug\Hafta8_çokbiçimlilk_örnek3.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta8_çokbiçimlilk_örnek3\Hafta8_çokbiçimlilk_örnek3\bin\Debug\Hafta8_çokbiçimlilk_örnek3.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta8_çokbiçimlilk_örnek3\Hafta8_çokbiçimlilk_örnek3\obj\Debug\Hafta8_çokbiçimlilk_örnek3.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta8_çokbiçimlilk_örnek3\Hafta8_çokbiçimlilk_örnek3\obj\Debug\Hafta8_çokbiçimlilk_örnek3.pdb

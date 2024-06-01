@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Nesne_Uyg4\Hafta5_Nesne_Uyg4\bin\Debug\Hafta5_Nesne_Uyg4.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Nesne_Uyg4\Hafta5_Nesne_Uyg4\bin\Debug\Hafta5_Nesne_Uyg4.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Nesne_Uyg4\Hafta5_Nesne_Uyg4\bin\Debug\Hafta5_Nesne_Uyg4.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Nesne_Uyg4\Hafta5_Nesne_Uyg4\obj\Debug\Hafta5_Nesne_Uyg4.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Nesne_Uyg4\Hafta5_Nesne_Uyg4\obj\Debug\Hafta5_Nesne_Uyg4.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Nesne_Uyg4\Hafta5_Nesne_Uyg4\obj\Debug\Hafta5_Nesne_Uyg4.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Nesne_Uyg4\Hafta5_Nesne_Uyg4\obj\Debug\Hafta5_Nesne_Uyg4.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_Nesne_Uyg4\Hafta5_Nesne_Uyg4\obj\Debug\Hafta5_Nesne_Uyg4.pdb

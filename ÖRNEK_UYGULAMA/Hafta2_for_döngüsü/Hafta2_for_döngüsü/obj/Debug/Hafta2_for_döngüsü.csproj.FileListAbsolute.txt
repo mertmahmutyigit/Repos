@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_for_döngüsü\Hafta2_for_döngüsü\obj\Debug\Hafta2_for_döngüsü.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_for_döngüsü\Hafta2_for_döngüsü\obj\Debug\Hafta2_for_döngüsü.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_for_döngüsü\Hafta2_for_döngüsü\obj\Debug\Hafta2_for_döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_for_döngüsü\Hafta2_for_döngüsü\bin\Debug\Hafta2_for_döngüsü.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_for_döngüsü\Hafta2_for_döngüsü\bin\Debug\Hafta2_for_döngüsü.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_for_döngüsü\Hafta2_for_döngüsü\bin\Debug\Hafta2_for_döngüsü.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_for_döngüsü\Hafta2_for_döngüsü\obj\Debug\Hafta2_for_döngüsü.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_for_döngüsü\Hafta2_for_döngüsü\obj\Debug\Hafta2_for_döngüsü.pdb

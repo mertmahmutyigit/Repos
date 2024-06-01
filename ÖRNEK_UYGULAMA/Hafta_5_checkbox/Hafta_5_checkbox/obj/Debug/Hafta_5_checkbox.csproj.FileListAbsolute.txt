@@ -1,0 +1,11 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_5_checkbox\Hafta_5_checkbox\bin\Debug\Hafta_5_checkbox.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_5_checkbox\Hafta_5_checkbox\bin\Debug\Hafta_5_checkbox.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_5_checkbox\Hafta_5_checkbox\bin\Debug\Hafta_5_checkbox.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_5_checkbox\Hafta_5_checkbox\obj\Debug\Hafta_5_checkbox.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_5_checkbox\Hafta_5_checkbox\obj\Debug\Hafta_5_checkbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_5_checkbox\Hafta_5_checkbox\obj\Debug\Hafta_5_checkbox.Form1.resources
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_5_checkbox\Hafta_5_checkbox\obj\Debug\Hafta_5_checkbox.Properties.Resources.resources
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_5_checkbox\Hafta_5_checkbox\obj\Debug\Hafta_5_checkbox.csproj.GenerateResource.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_5_checkbox\Hafta_5_checkbox\obj\Debug\Hafta_5_checkbox.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_5_checkbox\Hafta_5_checkbox\obj\Debug\Hafta_5_checkbox.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_5_checkbox\Hafta_5_checkbox\obj\Debug\Hafta_5_checkbox.pdb

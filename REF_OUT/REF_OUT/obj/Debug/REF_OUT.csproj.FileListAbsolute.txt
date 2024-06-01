@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\REF_OUT\REF_OUT\bin\Debug\REF_OUT.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\REF_OUT\REF_OUT\bin\Debug\REF_OUT.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\REF_OUT\REF_OUT\bin\Debug\REF_OUT.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\REF_OUT\REF_OUT\obj\Debug\REF_OUT.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\REF_OUT\REF_OUT\obj\Debug\REF_OUT.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\REF_OUT\REF_OUT\obj\Debug\REF_OUT.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\REF_OUT\REF_OUT\obj\Debug\REF_OUT.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\REF_OUT\REF_OUT\obj\Debug\REF_OUT.pdb

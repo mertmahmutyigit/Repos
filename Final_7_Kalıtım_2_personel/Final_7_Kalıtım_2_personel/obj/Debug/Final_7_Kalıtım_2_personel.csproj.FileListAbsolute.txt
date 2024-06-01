@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Final_7_Kalıtım_2_personel\Final_7_Kalıtım_2_personel\bin\Debug\Final_7_Kalıtım_2_personel.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Final_7_Kalıtım_2_personel\Final_7_Kalıtım_2_personel\bin\Debug\Final_7_Kalıtım_2_personel.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Final_7_Kalıtım_2_personel\Final_7_Kalıtım_2_personel\bin\Debug\Final_7_Kalıtım_2_personel.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Final_7_Kalıtım_2_personel\Final_7_Kalıtım_2_personel\obj\Debug\Final_7_Kalıtım_2_personel.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Final_7_Kalıtım_2_personel\Final_7_Kalıtım_2_personel\obj\Debug\Final_7_Kalıtım_2_personel.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Final_7_Kalıtım_2_personel\Final_7_Kalıtım_2_personel\obj\Debug\Final_7_Kalıtım_2_personel.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Final_7_Kalıtım_2_personel\Final_7_Kalıtım_2_personel\obj\Debug\Final_7_Kalıtım_2_personel.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Final_7_Kalıtım_2_personel\Final_7_Kalıtım_2_personel\obj\Debug\Final_7_Kalıtım_2_personel.pdb

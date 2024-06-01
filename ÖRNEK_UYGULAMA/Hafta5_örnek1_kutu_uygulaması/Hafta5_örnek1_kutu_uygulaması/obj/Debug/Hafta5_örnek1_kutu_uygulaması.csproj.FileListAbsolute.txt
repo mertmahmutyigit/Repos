@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_örnek1_kutu_uygulaması\Hafta5_örnek1_kutu_uygulaması\obj\Debug\Hafta5_örnek1_kutu_uygulaması.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_örnek1_kutu_uygulaması\Hafta5_örnek1_kutu_uygulaması\obj\Debug\Hafta5_örnek1_kutu_uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_örnek1_kutu_uygulaması\Hafta5_örnek1_kutu_uygulaması\obj\Debug\Hafta5_örnek1_kutu_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_örnek1_kutu_uygulaması\Hafta5_örnek1_kutu_uygulaması\bin\Debug\Hafta5_örnek1_kutu_uygulaması.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_örnek1_kutu_uygulaması\Hafta5_örnek1_kutu_uygulaması\bin\Debug\Hafta5_örnek1_kutu_uygulaması.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_örnek1_kutu_uygulaması\Hafta5_örnek1_kutu_uygulaması\bin\Debug\Hafta5_örnek1_kutu_uygulaması.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_örnek1_kutu_uygulaması\Hafta5_örnek1_kutu_uygulaması\obj\Debug\Hafta5_örnek1_kutu_uygulaması.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_örnek1_kutu_uygulaması\Hafta5_örnek1_kutu_uygulaması\obj\Debug\Hafta5_örnek1_kutu_uygulaması.pdb

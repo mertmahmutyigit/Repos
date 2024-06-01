@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_6_KALITIM_1\FİNAL_6_KALITIM_1\bin\Debug\FİNAL_6_KALITIM_1.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_6_KALITIM_1\FİNAL_6_KALITIM_1\bin\Debug\FİNAL_6_KALITIM_1.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_6_KALITIM_1\FİNAL_6_KALITIM_1\bin\Debug\FİNAL_6_KALITIM_1.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_6_KALITIM_1\FİNAL_6_KALITIM_1\obj\Debug\FİNAL_6_KALITIM_1.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_6_KALITIM_1\FİNAL_6_KALITIM_1\obj\Debug\FİNAL_6_KALITIM_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_6_KALITIM_1\FİNAL_6_KALITIM_1\obj\Debug\FİNAL_6_KALITIM_1.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_6_KALITIM_1\FİNAL_6_KALITIM_1\obj\Debug\FİNAL_6_KALITIM_1.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_6_KALITIM_1\FİNAL_6_KALITIM_1\obj\Debug\FİNAL_6_KALITIM_1.pdb

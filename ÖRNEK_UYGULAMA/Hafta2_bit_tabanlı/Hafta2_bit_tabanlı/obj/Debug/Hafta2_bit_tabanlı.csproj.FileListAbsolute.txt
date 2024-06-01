@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_bit_tabanlı\Hafta2_bit_tabanlı\bin\Debug\Hafta2_bit_tabanlı.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_bit_tabanlı\Hafta2_bit_tabanlı\bin\Debug\Hafta2_bit_tabanlı.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_bit_tabanlı\Hafta2_bit_tabanlı\bin\Debug\Hafta2_bit_tabanlı.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_bit_tabanlı\Hafta2_bit_tabanlı\obj\Debug\Hafta2_bit_tabanlı.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_bit_tabanlı\Hafta2_bit_tabanlı\obj\Debug\Hafta2_bit_tabanlı.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_bit_tabanlı\Hafta2_bit_tabanlı\obj\Debug\Hafta2_bit_tabanlı.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_bit_tabanlı\Hafta2_bit_tabanlı\obj\Debug\Hafta2_bit_tabanlı.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_bit_tabanlı\Hafta2_bit_tabanlı\obj\Debug\Hafta2_bit_tabanlı.pdb

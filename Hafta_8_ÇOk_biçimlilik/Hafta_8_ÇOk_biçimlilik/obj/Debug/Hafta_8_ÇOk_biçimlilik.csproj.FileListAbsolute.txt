@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_8_ÇOk_biçimlilik\Hafta_8_ÇOk_biçimlilik\bin\Debug\Hafta_8_ÇOk_biçimlilik.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_8_ÇOk_biçimlilik\Hafta_8_ÇOk_biçimlilik\bin\Debug\Hafta_8_ÇOk_biçimlilik.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_8_ÇOk_biçimlilik\Hafta_8_ÇOk_biçimlilik\bin\Debug\Hafta_8_ÇOk_biçimlilik.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_8_ÇOk_biçimlilik\Hafta_8_ÇOk_biçimlilik\obj\Debug\Hafta_8_ÇOk_biçimlilik.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_8_ÇOk_biçimlilik\Hafta_8_ÇOk_biçimlilik\obj\Debug\Hafta_8_ÇOk_biçimlilik.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_8_ÇOk_biçimlilik\Hafta_8_ÇOk_biçimlilik\obj\Debug\Hafta_8_ÇOk_biçimlilik.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_8_ÇOk_biçimlilik\Hafta_8_ÇOk_biçimlilik\obj\Debug\Hafta_8_ÇOk_biçimlilik.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_8_ÇOk_biçimlilik\Hafta_8_ÇOk_biçimlilik\obj\Debug\Hafta_8_ÇOk_biçimlilik.pdb

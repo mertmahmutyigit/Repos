@@ -1,0 +1,11 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta1_form\Hafta1_form\bin\Debug\Hafta1_form.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta1_form\Hafta1_form\bin\Debug\Hafta1_form.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta1_form\Hafta1_form\bin\Debug\Hafta1_form.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta1_form\Hafta1_form\obj\Debug\Hafta1_form.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta1_form\Hafta1_form\obj\Debug\Hafta1_form.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta1_form\Hafta1_form\obj\Debug\Hafta1_form.Form1.resources
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta1_form\Hafta1_form\obj\Debug\Hafta1_form.Properties.Resources.resources
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta1_form\Hafta1_form\obj\Debug\Hafta1_form.csproj.GenerateResource.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta1_form\Hafta1_form\obj\Debug\Hafta1_form.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta1_form\Hafta1_form\obj\Debug\Hafta1_form.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta1_form\Hafta1_form\obj\Debug\Hafta1_form.pdb

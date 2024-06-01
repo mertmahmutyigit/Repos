@@ -1,0 +1,11 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_çoklubuton_bit_dönüşümü\Hafta2_çoklubuton_bit_dönüşümü\bin\Debug\Hafta2_çoklubuton_bit_dönüşümü.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_çoklubuton_bit_dönüşümü\Hafta2_çoklubuton_bit_dönüşümü\bin\Debug\Hafta2_çoklubuton_bit_dönüşümü.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_çoklubuton_bit_dönüşümü\Hafta2_çoklubuton_bit_dönüşümü\bin\Debug\Hafta2_çoklubuton_bit_dönüşümü.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_çoklubuton_bit_dönüşümü\Hafta2_çoklubuton_bit_dönüşümü\obj\Debug\Hafta2_çoklubuton_bit_dönüşümü.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_çoklubuton_bit_dönüşümü\Hafta2_çoklubuton_bit_dönüşümü\obj\Debug\Hafta2_çoklubuton_bit_dönüşümü.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_çoklubuton_bit_dönüşümü\Hafta2_çoklubuton_bit_dönüşümü\obj\Debug\Hafta2_çoklubuton_bit_dönüşümü.Form1.resources
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_çoklubuton_bit_dönüşümü\Hafta2_çoklubuton_bit_dönüşümü\obj\Debug\Hafta2_çoklubuton_bit_dönüşümü.Properties.Resources.resources
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_çoklubuton_bit_dönüşümü\Hafta2_çoklubuton_bit_dönüşümü\obj\Debug\Hafta2_çoklubuton_bit_dönüşümü.csproj.GenerateResource.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_çoklubuton_bit_dönüşümü\Hafta2_çoklubuton_bit_dönüşümü\obj\Debug\Hafta2_çoklubuton_bit_dönüşümü.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_çoklubuton_bit_dönüşümü\Hafta2_çoklubuton_bit_dönüşümü\obj\Debug\Hafta2_çoklubuton_bit_dönüşümü.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_çoklubuton_bit_dönüşümü\Hafta2_çoklubuton_bit_dönüşümü\obj\Debug\Hafta2_çoklubuton_bit_dönüşümü.pdb

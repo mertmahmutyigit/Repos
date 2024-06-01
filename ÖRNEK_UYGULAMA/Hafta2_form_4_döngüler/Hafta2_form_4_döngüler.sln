@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta2_form_4_döngüler", "Hafta2_form_4_döngüler\Hafta2_form_4_döngüler.csproj", "{C2449AC7-3603-4751-A634-4E60831E864A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2449AC7-3603-4751-A634-4E60831E864A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2449AC7-3603-4751-A634-4E60831E864A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2449AC7-3603-4751-A634-4E60831E864A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2449AC7-3603-4751-A634-4E60831E864A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {832DAF75-24B5-4006-83A4-983EC822B929}
+	EndGlobalSection
+EndGlobal

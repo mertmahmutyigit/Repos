@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_5_Enum\FİNAL_5_Enum\obj\Debug\FİNAL_5_Enum.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_5_Enum\FİNAL_5_Enum\obj\Debug\FİNAL_5_Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_5_Enum\FİNAL_5_Enum\obj\Debug\FİNAL_5_Enum.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_5_Enum\FİNAL_5_Enum\bin\Debug\FİNAL_5_Enum.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_5_Enum\FİNAL_5_Enum\bin\Debug\FİNAL_5_Enum.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_5_Enum\FİNAL_5_Enum\bin\Debug\FİNAL_5_Enum.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_5_Enum\FİNAL_5_Enum\obj\Debug\FİNAL_5_Enum.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_5_Enum\FİNAL_5_Enum\obj\Debug\FİNAL_5_Enum.pdb

@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_nesneler_Uyg_3\Hafta5_nesneler_Uyg_3\bin\Debug\Hafta5_nesneler_Uyg_3.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_nesneler_Uyg_3\Hafta5_nesneler_Uyg_3\bin\Debug\Hafta5_nesneler_Uyg_3.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_nesneler_Uyg_3\Hafta5_nesneler_Uyg_3\bin\Debug\Hafta5_nesneler_Uyg_3.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_nesneler_Uyg_3\Hafta5_nesneler_Uyg_3\obj\Debug\Hafta5_nesneler_Uyg_3.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_nesneler_Uyg_3\Hafta5_nesneler_Uyg_3\obj\Debug\Hafta5_nesneler_Uyg_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_nesneler_Uyg_3\Hafta5_nesneler_Uyg_3\obj\Debug\Hafta5_nesneler_Uyg_3.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_nesneler_Uyg_3\Hafta5_nesneler_Uyg_3\obj\Debug\Hafta5_nesneler_Uyg_3.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta5_nesneler_Uyg_3\Hafta5_nesneler_Uyg_3\obj\Debug\Hafta5_nesneler_Uyg_3.pdb

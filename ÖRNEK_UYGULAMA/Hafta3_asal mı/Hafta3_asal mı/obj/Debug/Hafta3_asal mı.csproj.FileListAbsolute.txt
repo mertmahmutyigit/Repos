@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_asal mı\Hafta3_asal mı\bin\Debug\Hafta3_asal mı.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_asal mı\Hafta3_asal mı\bin\Debug\Hafta3_asal mı.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_asal mı\Hafta3_asal mı\bin\Debug\Hafta3_asal mı.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_asal mı\Hafta3_asal mı\obj\Debug\Hafta3_asal mı.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_asal mı\Hafta3_asal mı\obj\Debug\Hafta3_asal mı.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_asal mı\Hafta3_asal mı\obj\Debug\Hafta3_asal mı.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_asal mı\Hafta3_asal mı\obj\Debug\Hafta3_asal mı.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta3_asal mı\Hafta3_asal mı\obj\Debug\Hafta3_asal mı.pdb

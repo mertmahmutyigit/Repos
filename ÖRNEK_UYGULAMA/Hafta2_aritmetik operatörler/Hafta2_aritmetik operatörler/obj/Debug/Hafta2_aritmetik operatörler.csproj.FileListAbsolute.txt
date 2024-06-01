@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_aritmetik operatörler\Hafta2_aritmetik operatörler\bin\Debug\Hafta2_aritmetik operatörler.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_aritmetik operatörler\Hafta2_aritmetik operatörler\bin\Debug\Hafta2_aritmetik operatörler.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_aritmetik operatörler\Hafta2_aritmetik operatörler\bin\Debug\Hafta2_aritmetik operatörler.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_aritmetik operatörler\Hafta2_aritmetik operatörler\obj\Debug\Hafta2_aritmetik operatörler.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_aritmetik operatörler\Hafta2_aritmetik operatörler\obj\Debug\Hafta2_aritmetik operatörler.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_aritmetik operatörler\Hafta2_aritmetik operatörler\obj\Debug\Hafta2_aritmetik operatörler.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_aritmetik operatörler\Hafta2_aritmetik operatörler\obj\Debug\Hafta2_aritmetik operatörler.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta2_aritmetik operatörler\Hafta2_aritmetik operatörler\obj\Debug\Hafta2_aritmetik operatörler.pdb

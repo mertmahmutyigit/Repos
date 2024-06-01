@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAFTA3_DİZİLER_PALİNDROME", "HAFTA3_DİZİLER_PALİNDROME\HAFTA3_DİZİLER_PALİNDROME.csproj", "{666EEABE-AD36-43F8-B26C-DAC857C66F49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666EEABE-AD36-43F8-B26C-DAC857C66F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666EEABE-AD36-43F8-B26C-DAC857C66F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666EEABE-AD36-43F8-B26C-DAC857C66F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666EEABE-AD36-43F8-B26C-DAC857C66F49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1304F37C-A238-4B4C-8E9B-C6F34495CE8D}
+	EndGlobalSection
+EndGlobal

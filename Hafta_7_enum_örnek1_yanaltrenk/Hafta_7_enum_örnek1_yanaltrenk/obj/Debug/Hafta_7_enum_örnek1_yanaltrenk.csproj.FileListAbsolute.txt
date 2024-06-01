@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_7_enum_örnek1_yanaltrenk\Hafta_7_enum_örnek1_yanaltrenk\bin\Debug\Hafta_7_enum_örnek1_yanaltrenk.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_7_enum_örnek1_yanaltrenk\Hafta_7_enum_örnek1_yanaltrenk\bin\Debug\Hafta_7_enum_örnek1_yanaltrenk.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_7_enum_örnek1_yanaltrenk\Hafta_7_enum_örnek1_yanaltrenk\bin\Debug\Hafta_7_enum_örnek1_yanaltrenk.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_7_enum_örnek1_yanaltrenk\Hafta_7_enum_örnek1_yanaltrenk\obj\Debug\Hafta_7_enum_örnek1_yanaltrenk.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_7_enum_örnek1_yanaltrenk\Hafta_7_enum_örnek1_yanaltrenk\obj\Debug\Hafta_7_enum_örnek1_yanaltrenk.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_7_enum_örnek1_yanaltrenk\Hafta_7_enum_örnek1_yanaltrenk\obj\Debug\Hafta_7_enum_örnek1_yanaltrenk.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_7_enum_örnek1_yanaltrenk\Hafta_7_enum_örnek1_yanaltrenk\obj\Debug\Hafta_7_enum_örnek1_yanaltrenk.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_7_enum_örnek1_yanaltrenk\Hafta_7_enum_örnek1_yanaltrenk\obj\Debug\Hafta_7_enum_örnek1_yanaltrenk.pdb

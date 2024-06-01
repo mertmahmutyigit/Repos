@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_tekboyutlu_diziler\Hafta4_tekboyutlu_diziler\bin\Debug\Hafta4_tekboyutlu_diziler.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_tekboyutlu_diziler\Hafta4_tekboyutlu_diziler\bin\Debug\Hafta4_tekboyutlu_diziler.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_tekboyutlu_diziler\Hafta4_tekboyutlu_diziler\bin\Debug\Hafta4_tekboyutlu_diziler.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_tekboyutlu_diziler\Hafta4_tekboyutlu_diziler\obj\Debug\Hafta4_tekboyutlu_diziler.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_tekboyutlu_diziler\Hafta4_tekboyutlu_diziler\obj\Debug\Hafta4_tekboyutlu_diziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_tekboyutlu_diziler\Hafta4_tekboyutlu_diziler\obj\Debug\Hafta4_tekboyutlu_diziler.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_tekboyutlu_diziler\Hafta4_tekboyutlu_diziler\obj\Debug\Hafta4_tekboyutlu_diziler.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_tekboyutlu_diziler\Hafta4_tekboyutlu_diziler\obj\Debug\Hafta4_tekboyutlu_diziler.pdb

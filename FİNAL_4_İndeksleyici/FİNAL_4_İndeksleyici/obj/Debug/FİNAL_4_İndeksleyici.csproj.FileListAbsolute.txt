@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_4_İndeksleyici\FİNAL_4_İndeksleyici\bin\Debug\FİNAL_4_İndeksleyici.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_4_İndeksleyici\FİNAL_4_İndeksleyici\bin\Debug\FİNAL_4_İndeksleyici.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_4_İndeksleyici\FİNAL_4_İndeksleyici\bin\Debug\FİNAL_4_İndeksleyici.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_4_İndeksleyici\FİNAL_4_İndeksleyici\obj\Debug\FİNAL_4_İndeksleyici.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_4_İndeksleyici\FİNAL_4_İndeksleyici\obj\Debug\FİNAL_4_İndeksleyici.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_4_İndeksleyici\FİNAL_4_İndeksleyici\obj\Debug\FİNAL_4_İndeksleyici.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_4_İndeksleyici\FİNAL_4_İndeksleyici\obj\Debug\FİNAL_4_İndeksleyici.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_4_İndeksleyici\FİNAL_4_İndeksleyici\obj\Debug\FİNAL_4_İndeksleyici.pdb

@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_4_Metot_faktöriyel\Hafta_4_Metot_faktöriyel\bin\Debug\Hafta_4_Metot_faktöriyel.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_4_Metot_faktöriyel\Hafta_4_Metot_faktöriyel\bin\Debug\Hafta_4_Metot_faktöriyel.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_4_Metot_faktöriyel\Hafta_4_Metot_faktöriyel\bin\Debug\Hafta_4_Metot_faktöriyel.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_4_Metot_faktöriyel\Hafta_4_Metot_faktöriyel\obj\Debug\Hafta_4_Metot_faktöriyel.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_4_Metot_faktöriyel\Hafta_4_Metot_faktöriyel\obj\Debug\Hafta_4_Metot_faktöriyel.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_4_Metot_faktöriyel\Hafta_4_Metot_faktöriyel\obj\Debug\Hafta_4_Metot_faktöriyel.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_4_Metot_faktöriyel\Hafta_4_Metot_faktöriyel\obj\Debug\Hafta_4_Metot_faktöriyel.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta_4_Metot_faktöriyel\Hafta_4_Metot_faktöriyel\obj\Debug\Hafta_4_Metot_faktöriyel.pdb

@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_2_Yıkıcı_metot\FİNAL_2_Yıkıcı_metot\obj\Debug\FİNAL_2_Yıkıcı_metot.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_2_Yıkıcı_metot\FİNAL_2_Yıkıcı_metot\obj\Debug\FİNAL_2_Yıkıcı_metot.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_2_Yıkıcı_metot\FİNAL_2_Yıkıcı_metot\obj\Debug\FİNAL_2_Yıkıcı_metot.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_2_Yıkıcı_metot\FİNAL_2_Yıkıcı_metot\bin\Debug\FİNAL_2_Yıkıcı_metot.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_2_Yıkıcı_metot\FİNAL_2_Yıkıcı_metot\bin\Debug\FİNAL_2_Yıkıcı_metot.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_2_Yıkıcı_metot\FİNAL_2_Yıkıcı_metot\bin\Debug\FİNAL_2_Yıkıcı_metot.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_2_Yıkıcı_metot\FİNAL_2_Yıkıcı_metot\obj\Debug\FİNAL_2_Yıkıcı_metot.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\FİNAL_2_Yıkıcı_metot\FİNAL_2_Yıkıcı_metot\obj\Debug\FİNAL_2_Yıkıcı_metot.pdb

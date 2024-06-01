@@ -1,0 +1,3 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\static kurucular\static kurucular\obj\Debug\static kurucular.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\static kurucular\static kurucular\obj\Debug\static kurucular.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\static kurucular\static kurucular\obj\Debug\static kurucular.csproj.CoreCompileInputs.cache

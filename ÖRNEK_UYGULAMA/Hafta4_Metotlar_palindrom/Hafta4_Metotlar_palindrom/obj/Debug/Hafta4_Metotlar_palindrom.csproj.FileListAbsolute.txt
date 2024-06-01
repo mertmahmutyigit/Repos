@@ -1,0 +1,8 @@
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_Metotlar_palindrom\Hafta4_Metotlar_palindrom\obj\Debug\Hafta4_Metotlar_palindrom.csproj.AssemblyReference.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_Metotlar_palindrom\Hafta4_Metotlar_palindrom\obj\Debug\Hafta4_Metotlar_palindrom.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_Metotlar_palindrom\Hafta4_Metotlar_palindrom\obj\Debug\Hafta4_Metotlar_palindrom.csproj.CoreCompileInputs.cache
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_Metotlar_palindrom\Hafta4_Metotlar_palindrom\bin\Debug\Hafta4_Metotlar_palindrom.exe.config
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_Metotlar_palindrom\Hafta4_Metotlar_palindrom\bin\Debug\Hafta4_Metotlar_palindrom.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_Metotlar_palindrom\Hafta4_Metotlar_palindrom\bin\Debug\Hafta4_Metotlar_palindrom.pdb
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_Metotlar_palindrom\Hafta4_Metotlar_palindrom\obj\Debug\Hafta4_Metotlar_palindrom.exe
+C:\Users\MERT MAHMUT YİĞİT\Source\Repos\Hafta4_Metotlar_palindrom\Hafta4_Metotlar_palindrom\obj\Debug\Hafta4_Metotlar_palindrom.pdb
